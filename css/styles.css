@@ -1,17 +1,25 @@
-html, body {
-color:black;
-background-color:white;
-background-image:url(images/thehypegate.jpg);
+html,body {
+  height:100%;
+  color:white;
+background-color:#6AFF94;
+}
+
+.full {
+    background: url(../images/thehypegate.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
 
 h1 {
   font-family: Arial,sans-serif
   font-size:80px;
-  color:#DDCCEE;
+  color:white;
 }
 
 .lead {
-	color:#DDCCEE;
+	color:white;
 }
 
 
@@ -20,17 +28,16 @@ h1 {
   margin: 0 auto;
   width: 100%;
   min-height:100%;
-  background-color:#110022;
+  background-color:#6AFF94;
   color:#eee;
   overflow:hidden;
 }
 
 .container-full a {
-  color:#efefef;
+  color:#6AFF94;
   text-decoration:none;
 }
 
 .v-center {
   margin-top:7%;
 }
-  
