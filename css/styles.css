@@ -1,7 +1,6 @@
 html,body {
   height:100%;
   color:white;
-background-color:#6AFF94;
 }
 
 .full {
@@ -28,7 +27,6 @@ h1 {
   margin: 0 auto;
   width: 100%;
   min-height:100%;
-  background-color:#6AFF94;
   color:#eee;
   overflow:hidden;
 }
