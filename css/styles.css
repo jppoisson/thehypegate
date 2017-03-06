@@ -1,8 +1,4 @@
-html,body {
-  height:100%;
-}
-
-body {
+html, body {
 color:black;
 background-color:white;
 background-image:url(images/thehypegate.jpg);
