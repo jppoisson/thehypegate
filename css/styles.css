@@ -1,10 +1,7 @@
 html,body {
   height:100%;
   color:white;
-}
-
-.full {
-    background: url(../images/thehypegateLarge.png) no-repeat center center fixed;
+   background: url(../images/thehypegateLarge.png) no-repeat center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -19,6 +16,7 @@ h1 {
 
 .lead {
 	color:white;
+  margin-bottom: 100px;
 }
 
 
